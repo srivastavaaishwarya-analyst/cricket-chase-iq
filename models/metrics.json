@@ -1,0 +1,24 @@
+{
+  "train_seasons": "2008-2024",
+  "test_seasons": "2025-2026",
+  "test_balls": 16306,
+  "test_matches": 142,
+  "brier": 0.1389,
+  "brier_baseline": 0.248,
+  "log_loss": 0.4347,
+  "accuracy": 0.7991,
+  "accuracy_last_5_overs": 0.9148,
+  "player_model": {
+    "brier": 0.1253,
+    "brier_baseline": 0.248,
+    "log_loss": 0.4004,
+    "accuracy": 0.821,
+    "accuracy_last_5_overs": 0.9164
+  },
+  "league": {
+    "bat_sr": 134.018,
+    "bat_out_rate": 5.158,
+    "bowl_econ": 8.467,
+    "bowl_wkt_rate": 4.732
+  }
+}
