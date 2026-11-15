@@ -5,7 +5,9 @@
 ## The problem
 In T20 cricket, raw stats lie about who wins chases. A batter who scores 40 off 30 when the game is already won
 looks the same on a scorecard as one who hits 40 off 20 with 60 needed from 30. Captains, analysts and fantasy
-players need to know **how likely a chase is to succeed right now**, and **which players move that number**.
+players need to know **how likely a chase is to succeed right now**, and **which players move that number**. 
+
+What are the chances of a player winning the game against the player that is in a far better position than them? 
 
 ## The solution
 Chase IQ is an interactive web app built on every ball of every IPL run chase (data from Cricsheet):
